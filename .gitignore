@@ -1,0 +1,13 @@
+*.db
+*.sqlite
+*.json
+*.csv
+*.tsv
+*.txt
+!README.md
+!requirements.txt
+__pycache__/
+*.pyc
+.env
+إعراب_القرآن_الكريم/
+*.zip
